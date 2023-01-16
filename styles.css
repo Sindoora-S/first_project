@@ -1,3 +1,30 @@
-h1{
-    color: blue;
+.heading{
+    text-align: center;color: red;
+}
+.h2{
+    text-align: center;
+}
+.para{
+    border: 1px solid;
+}
+.questions{
+    border: 1px solid;text-align: center;
+}
+.q1{
+    border: 1px solid;
+}
+.q2{
+    border: 1px solid;
+}
+.q3{
+    border: 1px solid;
+}
+.q4{
+    border: 1px solid;
+}
+.q5{
+    border: 1px solid;
+}
+.personal{
+    border: 1px solid;
 }
